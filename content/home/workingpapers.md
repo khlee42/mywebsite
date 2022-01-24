@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 62
+weight: 63
 
-title: Recent Publications
+title: Working Papers
 subtitle: ''
 
 content:
@@ -19,23 +19,23 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: '2'
+    publication_type: '3'
     author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: 2
   columns: '2'
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/#2).
+Quickly discover relevant content by [filtering working papers](./publication/#3).
 {{% /callout %}}
