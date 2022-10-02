@@ -1,9 +1,9 @@
 ---
 title: WISE 2022
-subtitle: '"Equalizing access: The effects of ride-sourcing technology on spatial inequality" has been accepted for presentation at CIST 2022 👋'
+subtitle: '"Equalizing access: The effects of ride-sourcing technology on spatial inequality" has been accepted for presentation at WISE 2022 👋'
 
 # Summary for listings and search engines
-summary: '"Equalizing access: The effects of ride-sourcing technology on spatial inequality" has been accepted for presentation at CIST 2022 👋'
+summary: '"Equalizing access: The effects of ride-sourcing technology on spatial inequality" has been accepted for presentation at WISE 2022 👋'
 
 # Link this post with a project
 projects: []
