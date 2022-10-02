@@ -51,9 +51,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/khlee42
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=6E0galQAAAAJ&hl=en
 - icon: publons  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://publons.com/researcher/1959410/kyunghee-lee/
+  link: https://www.webofscience.com/wos/author/record/974512
 - icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
   link: https://orcid.org/0000-0002-2192-3328
