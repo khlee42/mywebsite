@@ -13,7 +13,8 @@ authors:
 - Jae Ho Lee
 - Yu Rang Park
 - Soo-Yong Shin
-tags: []
+tags:
+- digital platforms
 categories: []
 date: '2018-07-01'
 doi: 10.1371/journal.pone.0201166

@@ -1,14 +1,12 @@
 ---
-title: "Measuring IT risk of interfirm collaboration: the impact of IT asset specificity on alliance design and performance"
+title: "Pay Me in Crypto? Probabilistic Pay and Risk Attitudes on Decentralized Crowdsourcing Platforms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Kyunghee Lee
-- Kunsoo Han
-- Animesh Animesh
-- Alain Pinsonneault
+- Hyunji So
 
 # Author notes (optional)
 author_notes: ""
@@ -17,7 +15,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2022-01-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,16 +24,16 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for submission to *Strategic Management Journal*
+publication: "In preparation for submission to *Management Science*"
 # publication_short: In *ICW*
 
-abstract: 'A rapid decline in communication and coordination costs has enabled new boundary-spanning organizational designs that generate rents from sophisticated interfirm collaboration such as strategic alliances. While the extant literature has enriched our understanding of how IT capabilities could help firms explore relational rent-seeking opportunities, little is known about IT risks in an alliance associated with developing such capabilities. A few that addressed the question offer opposing views, making it unclear whether IT risks exist in strategic partnerships and what firms can do to mitigate the risks. Using 190 strategic alliances from 2007 to 2013, we find that firms react to increasing IT incompatibility by forming joint ventures, supporting the IT risk hypothesis. Further, IT risk negatively affects alliance performance unless a proper safeguard such as a joint venture is in place to mitigate IT risk. Interestingly, we do not find evidence for the efficacy of informal safeguards such as mutual trust. This study is among the first to empirically prove the transactional risks involved in integrating IT systems across organizations in a strategic alliance. The contributions and implications of these findings are discussed.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: In preparation for submission to *Strategic Management Journal*
+summary: "In preparation for submission to *Management Science*"
 
 tags:
-- organizational structure
+- web3
 
 # Display this page in the Featured widget?
 featured: true

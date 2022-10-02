@@ -9,10 +9,11 @@ authors:
 - Qianran (Jenny) Jin
 - Animesh Animesh
 - Jui Ramaprasad
-tags: []
+tags:
+- social infrastructure
 categories: []
 date: '2022-01-01'
-doi: ''
+doi: '10.2139/ssrn.3244207'
 featured: false
 draft: false
 

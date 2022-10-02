@@ -18,9 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Digital Business Models
-- Technology and Organizational Structure
-- Protocol Economy
+- Digital Platforms
+- Organizational Structure
+- Social Infrastructure
+- Blockchain/Web3
 
 # Education to show in About widget
 education:

@@ -9,7 +9,8 @@ authors:
 - Kyunghee Lee
 - Byungtae Lee
 - Wonseok Oh
-tags: []
+tags:
+- digital platforms
 categories: []
 date: '2015-01-01'
 doi: 10.1080/07421222.2015.1138372

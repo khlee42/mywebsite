@@ -25,15 +25,16 @@ publishDate: "2022-01-23T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under 2nd round review at *Production and Operations Management*
+publication: Reject and resubmit at *Production and Operations Management*
 # publication_short: In *ICW*
 
 abstract: 'This study examines how cultural differences between merging firms affect post-M&A performance in international M&As. Our study differs from prior literature in two important ways: (1) we focus on cultural differences in two particular dimensions - power distance and individualism/collectivism - rather than using the composite measure of cultural distance; (2) as the performance measure, we use abnormal operating performance, which captures the actual, realized value/costs that arise during the post-M&A integration process. Our theorization and empirical results suggest that the two dimensions of culture have distinct effects on a post-M&A outcome: while differences in power distance are negatively associated with post-M&A performance, those in individualism/collectivism positively affect such performance. We also find that these effects are significant only in M&A deals seeking operational rather than financial synergies. Our theoretical framework and empirical findings contribute to the operations management literature on culture in general and the literature on international M&As in particular by illuminating the differential effects of cultural differences in power distance and individualism/collectivism on post-integration outcomes.'
 
 # Summary. An optional shortened abstract.
-summary: Under 2nd round review at *Production and Operations Management*
+summary: Reject and Resubmit at *Production and Operations Management*
 
-tags: []
+tags:
+- organizational structure
 
 # Display this page in the Featured widget?
 featured: true

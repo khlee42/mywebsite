@@ -33,7 +33,8 @@ abstract: 'Due to the increasing significance of ebooks and concerns regarding t
 # Summary. An optional shortened abstract.
 summary: In preparation for submission to *Journal of Operations Management*
 
-tags: []
+tags:
+- digital platforms
 
 # Display this page in the Featured widget?
 featured: true
