@@ -26,6 +26,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2022-12-01"
+  description:
+  organization: Mike Ilitch School of Business, Wayne State University
+  organization_url: 
+  title: Faculty Excellence in Research
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2020-12-01"
   description: "Track: Sharing Economy, Platforms, and Crowds"
   organization: ICIS (International Conference of Information Systems)
