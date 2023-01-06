@@ -13,7 +13,7 @@ tags:
 - social infrastructure
 categories: []
 date: '2022-12-01'
-doi: 'https://misq.umn.edu/impact-of-ride-hailing-services-on-transportation-mode-choices-evidence-from-traffic-and-transit-ridership.html'
+doi: '10.25300/MISQ/2022/15707'
 featured: false
 draft: false
 

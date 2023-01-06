@@ -14,7 +14,7 @@ authors:
 author_notes: ""
 
 date: "2022-12-01"
-doi: "https://misq.umn.edu/does-it-matter-to-acquisitions-the-impacts-of-it-distance-on-post-acquisition-performance.html"
+doi: "10.25300/MISQ/2022/16039"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-24T00:00:00Z"
