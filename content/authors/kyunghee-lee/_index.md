@@ -6,11 +6,11 @@ title: Kyunghee Lee
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Information Systems Management
+role: Assistant Professor of Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wayne State University
+- name: McGill University
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,4 +73,4 @@ email: ""
 highlight_name: true
 ---
   
-Kyunghee Lee is an Assistant Professor of Information Systems Management at the Mike Ilitch School of Business, Wayne State University. He studies the economic and societal impacts of information technology, with focus on the decentralization of business models and organizational structure.
+Kyunghee Lee is an Assistant Professor of Information Systems at the Desautels Faculty of Management, McGill University. He studies the economic and societal impacts of information technology, with focus on the decentralization of business models and organizational structure.

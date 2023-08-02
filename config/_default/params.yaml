@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: kyunghee.lee@wayne.edu
+email: kyunghee.lee@mcgill.ca
 # phone: 888 888 88 88
 address:
-  street: 2771 Woodward Ave
-  city: Detroit
-  region: MI
-  postcode: '48201'
-  country: United States
-  country_code: US
+  street: 1001 Sherbrooke W
+  city: Montreal
+  region: QC
+  postcode: 'H3A 1G5'
+  country: Canada
+  country_code: CA
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
